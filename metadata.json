@@ -1,0 +1,7 @@
+{
+  "name": "V-Net Client",
+  "description": "A web-based UI for a modern VPN client, inspired by V2RayNG, supporting various protocols and DNS over HTTPS. This is a user interface mockup and does not establish a real VPN connection.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
